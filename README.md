@@ -34,7 +34,7 @@ To run this project locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/github-repo-search.git
+   git clone https://github.com/ekta-goyal/github-repo-search.git
    cd github-repo-search
 
 2. Install the dependencies: 
